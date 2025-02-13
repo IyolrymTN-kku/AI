@@ -1,4 +1,4 @@
-[https://graphicriver.net
+https://graphicriver.net
 http://sassari-allert.com/
 https://lastpass.com
 https://submityourgfr.web.app/
@@ -58,4 +58,3 @@ https://yrdmpl.webwave.dev/
 http://skynetbe1452.usluga.me
 http://bitly.ws/?redirect=KqaH
 https://dhi-sporing.com/
-)
